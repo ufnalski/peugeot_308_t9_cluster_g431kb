@@ -1,7 +1,7 @@
 # Peugeot 308 T9 (2014+) instrument panel cluster hacking (STM32G431KB)
 A similar story as for the [Mustang](https://github.com/ufnalski/ford_mustang_cluster_h503rb). Let me therefore not to retell the whole story here.
 
-![Peugeot 308 T9 IPC in action](/Assets/Images/another_peugeot_308_t9_ipc_in_action.JPG)
+![Peugeot 308 T9 IPC in action](/Assets/Images/another_peugeot_308_t9_ipc_in_action.jpg)
 
 Check [/Assets/Images/](/Assets/Images/) for the pinout and the CAN bus settings.
 
