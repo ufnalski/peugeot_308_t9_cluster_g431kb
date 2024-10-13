@@ -38,6 +38,7 @@ In the case of low speed, e.g. 125 kbps, and a short line (mine is less than 1 m
 * [CAN-Bus: Introduction and History](https://resources.altium.com/p/Controller-Area-Network-Bus-Introduction-and-History) (Altium)
 * [CAN Physical Layer and Termination Guide](https://www.ni.com/en/support/documentation/supplemental/09/can-physical-layer-and-termination-guide.html) (NI)
 * [CAN Low Speed + interfejs High Speed = Sukces!](https://www.youtube.com/watch?v=JCZyb7mBZMo) (Systemy Wbudowane)
+* [Can High Speed vs. Can Low Speed - różnice między protokołami](https://systemywbudowane.pl/can-high-speed-vs-can-low-speed-roznice-miedzy-protokolami/) (Systemy Wbudowane)
 * [CAN Bus Explained - A Simple Intro [2024]](https://www.csselectronics.com/pages/can-bus-simple-intro-tutorial) (CSS Electronics)
 * [Determining the Necessary Termination Resistance for the Board](https://www.ni.com/docs/en-US/bundle/ni-xnet/page/determining-the-necessary-termination-resistance-for-the-board.html) (NI)
 
