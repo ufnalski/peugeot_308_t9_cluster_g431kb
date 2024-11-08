@@ -53,6 +53,14 @@ To use them with this particular IPC, i.e. the LS-CAN device, you have to remove
 
 ![HS-CAN and LS-CAN transceivers talking with each other](/Assets/Images/fault_tolerant_can_physical_layer.png)
 
+The same story applies to CAN sniffers. Their factory configuration is usually of HS-CAN type. However, you can easily retrofit them with just two resistors to make them talk to LS-CAN devices. Have a look at my MKS CANable V2.0 as an example of such a retrofit:
+
+![MKS CANable V2.0 retrofitted for LS-CAN](/Assets/Images/mks_canable_can_ls.jpg)
+
+![Cangaroo fed by MKS CANable V2.0 retrofitted for LS-CAN](/Assets/Images/can_ls_cangaroo.JPG)
+
+![MKS CANable V2.0 talking to LS-CAN IPC](/Assets/Images/mks_canable_ls_scope.png)
+
 # What's inside Peugeot 308 T9 IPC?
 * [TJA1055 Enhanced fault-tolerant CAN transceiver](https://www.nxp.com/docs/en/data-sheet/TJA1055.pdf) (NXP)
 
